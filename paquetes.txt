@@ -1,3 +1,5 @@
+beautifulsoup4==4.12.2
+bs4==0.0.1
 certifi==2023.7.22
 charset-normalizer==3.3.0
 contourpy==1.1.1
@@ -33,6 +35,7 @@ rfc3986==2.0.0
 rich==13.6.0
 SimpleWebSocketServer==0.1.2
 six==1.16.0
+soupsieve==2.5
 twine==4.0.2
 typing==3.7.4.3
 tzdata==2023.3
